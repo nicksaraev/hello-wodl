@@ -1,3 +1,3 @@
 print("Hello, world!")
 
-print("Hey again!")
+print("Hey!")
